@@ -4,13 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is my version of the I am rich app created as one of the very first apps available in the appstore. It was an app that basically did nothing and costed $999,99
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="355" alt="Screenshot 2021-12-21 at 19 25 36" src="https://user-images.githubusercontent.com/17130544/146980076-c3c333f1-f425-4213-924f-92e46f013d24.png">
